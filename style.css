@@ -15,8 +15,8 @@ body{
 #nav{
     display: flex;
     justify-content: space-between;
-    margin-right:100px;
-    margin-left: 100px;
+    margin-right:80px;
+    margin-left: 80px;
     padding-top: 10px;
 }
 
@@ -109,12 +109,13 @@ h5{
 .gifts{
     display: flex;
     gap:60px;
-    padding-left: 60px;
+    padding-left: 1em;
 }
 
 
 .bottom{
     display: flex;
+    width:98vw;
 }
 
 .pic{
